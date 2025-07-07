@@ -1,5 +1,11 @@
 ## Hi there 👋
-
+## GitHub Statistics 📈
+<p >
+ <img src="https://komarev.com/ghpvc/?username=Abhijit390&color=0066FF&style=flat" alt="Balaji" /><br/><br/>
+ <img src="https://github-readme-streak-stats.herokuapp.com/?user=Abhijit390&theme=transparent" /><br/><br/>
+ <img src="https://github-readme-stats.vercel.app/api/top-langs?username=vi3003&show_icons=true&locale=en&layout=compact&theme=transparent" /><br/><br/>
+  <img src="https://github-readme-stats.vercel.app/api?username=Abhijit390&show_icons=true&theme=transparent" />
+</p>
 <!--
 **Abhijit390/Abhijit390** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
