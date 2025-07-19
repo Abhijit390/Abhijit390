@@ -1,4 +1,6 @@
 
+![Profile view counter on GitHub](https://komarev.com/ghpvc/?username=Abhijit390)
+
 ## 🌐 Socials:
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/abhijit_firke) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:afirke1@gmail.com) 
 
@@ -26,7 +28,6 @@
 
 ---
 [![](https://visitcount.itsvg.in/api?id=Abhijit390&icon=0&color=0)](https://visitcount.itsvg.in)
-![Profile view counter on GitHub](https://komarev.com/ghpvc/?username=Abhijit390)
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
 <!--
