@@ -6,6 +6,26 @@
 
 # 💻 Tech Stack:
 ![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white) ![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white) ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![MicrosoftSQLServer](https://img.shields.io/badge/Microsoft%20SQL%20Server-CC2927?style=for-the-badge&logo=microsoft%20sql%20server&logoColor=white) ![Oracle](https://img.shields.io/badge/Oracle-F80000?style=for-the-badge&logo=oracle&logoColor=white)
+
+<table border="0" width="100%">
+  <tr>
+    <td width="30%" align="center" bgcolor="transparent">
+      <h3 style="margin: 0; padding: 0;">🚀 Top Languages</h3>
+    </td>
+    <td width="80%" align="center">
+       <h3 style="margin: 0; padding: 0;">📈 Contribution Activity</h3>
+    </td>
+  </tr>
+  <tr>
+    <td width="40%" align="center">
+      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Abhijit390&layout=compact&theme=radical" alt="Top Languages" />
+    </td>
+    <td width="60%" align="center">
+      <img src="https://github-readme-activity-graph.vercel.app/graph?username=Abhijit390&theme=radical" alt="Contribution Activity" />
+    </td>
+  </tr>
+</table>
+
 # 📊 GitHub Stats:
 ![](https://github-readme-stats.vercel.app/api?username=Abhijit390&theme=dracula&hide_border=false&include_all_commits=true&count_private=true)<br/>
 ![](https://nirzak-streak-stats.vercel.app/?user=Abhijit390&theme=dracula&hide_border=false)<br/>
